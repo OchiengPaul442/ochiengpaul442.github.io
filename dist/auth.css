@@ -20,10 +20,16 @@ html {
     transition: 0.4s ease all;
 }
 
+
+/* back color for card 1 */
+
 .color1 {
     left: 0;
     background: #b4cae1;
 }
+
+
+/* back color for card 2 */
 
 .color2 {
     right: 0;
@@ -38,6 +44,9 @@ html {
     transform: translateX(-100%);
 }
 
+
+/* form section edits */
+
 .auth_card {
     z-index: 2000;
     width: 1100px;
@@ -51,6 +60,9 @@ html {
     border-radius: 20px;
     transform: translate(-50%, -50%);
 }
+
+
+/* other slider edits */
 
 .other_sec {
     right: 0;
@@ -81,6 +93,9 @@ html {
     transition: 0.4s ease all;
 }
 
+
+/* button sec */
+
 #submit_btn {
     transition: 0.5s all;
     background: #1f1e6a;
@@ -109,6 +124,9 @@ html {
     background-color: #1f1e6a;
     color: white;
 }
+
+
+/* svg resize */
 
 .svg_img {
     width: 300px;
